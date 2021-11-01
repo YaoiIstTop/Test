@@ -1,0 +1,28 @@
+.header{
+  font-family: century gothic;
+  font-size: 80px;
+  margin: 0;
+
+}
+
+.head{
+  font-family: century gothic;
+    font-size: 20px;
+}
+
+.top{
+    background-color: #ebe46c;
+    padding: 10px;
+    margin: 0;
+}
+
+
+.carousel-item{
+  height: 600px;
+  padding: 50px;
+}
+
+
+.accordion{
+  margin: 30px;
+}
